@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361088609055",
+    "project_id": "notetakingapp-a4ea2",
+    "storage_bucket": "notetakingapp-a4ea2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361088609055:android:95a9375aaefa0dc1bb5e2a",
+        "android_client_info": {
+          "package_name": "com.zypher.shortnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvGCjlgHIq_65bVY6bwbwqV9nX5yuBWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
